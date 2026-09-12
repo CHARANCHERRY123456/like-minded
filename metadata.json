@@ -1,0 +1,10 @@
+{
+  "name": "PeerPrep - Tech Interview Match & Mock",
+  "description": "Connect with developers preparing for tech interviews, chat 1-on-1, join study groups, and practice real-time mock interviews with voice calling and collaborative coding.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
